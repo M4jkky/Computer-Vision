@@ -6,4 +6,3 @@ You need to download the images from the output folder, save them in zip format 
 
 ![](/misc/1.png)
 
-# Computer-Vision
