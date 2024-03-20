@@ -5,3 +5,4 @@ There is an assignment in this repository that deals with texture-based segmenta
 You need to download the images from the output folder, save them in zip format and upload them to: https://mosaic.utia.cas.cz/index.php?act=segm_form
 
 ![](/Users/m4/Desktop/Snímka obrazovky 2024-03-20 o 10.13.11.png)# Computer-Vision
+# Computer-Vision
